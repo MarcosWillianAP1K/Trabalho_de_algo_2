@@ -1,0 +1,20 @@
+{type m},{939884353}
+{type i,type j},{1,2}
+{type u,undo 1},{1,2}
+{type g,type x},{1,2}
+{type n,undo 1},{1,2}
+{type u,type o},{1,2}
+{type t,type q},{3,19}
+{type m,type m},{151,182}
+{type w,undo 559},{146,779}
+{undo 603,type i},{844,989}
+{type u,type m},{79,162}
+{type c,type f},{428084459,999572752}
+{type m,type n},{319910807,960390214}
+{undo 825618543,type l},{164324038,235147543}
+{undo 789294499,undo 367777466},{36571142,969085441}
+{type c,type h},{83053244,580269453}
+{type s,type b},{449157849,877712634}
+{type c,type c},{335010327,795402386}
+{type x,type j},{320267400,380905143}
+{undo 133845870,undo 737897709},{322773133,540236808}

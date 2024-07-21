@@ -1,0 +1,6 @@
+{type a,type b,undo 2,undo 2},{1,2,3,4}
+{type a,undo 1,undo 1},{1,2,3}
+{undo 1},{1}
+{type a,type b,type c,undo 10},{1,2,3,1000}
+{type a,type b,undo 2,type c,undo 2},{1,2,3,4,5}
+{type t,type e,type u},{1,2,3}

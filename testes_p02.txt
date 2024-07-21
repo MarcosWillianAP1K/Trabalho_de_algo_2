@@ -1,0 +1,20 @@
+{type e,type z,type h,type i,type k,type i,type h,type r,type y,type u,type s,type h,type e,type c,type h,type k,type i},{1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17}
+{type i},{1}
+{type d},{1}
+{type g},{1}
+{undo 1},{1}
+{undo 1},{1}
+{type w},{709}
+{type a},{162}
+{type y},{557}
+{undo 184},{431}
+{undo 235},{790}
+{type t},{129300153}
+{type s},{556203967}
+{type v},{576478126}
+{undo 929707708},{845404810}
+{type p},{545371077}
+{type l},{71188256}
+{type q},{264964176}
+{type n},{127273860}
+{type q},{552408809}
